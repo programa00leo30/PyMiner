@@ -9,6 +9,7 @@ Simple Minecraft-inspired demo written in Python and Pyglet.
 ## requirements
 ``` pip3 install pyglet 
 ```
+pip3 install pyglet 
 ## Objetivo del proyecto
 
 Me gustaria que este proyecto se uilice con fines educativos, para insentivar la programacion en python....
